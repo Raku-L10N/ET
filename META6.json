@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Estonian localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::ET",
+  "perl": "6.d",
+  "provides": {
+    "L10N::ET": "lib/L10N/ET.rakumod",
+    "RakuAST::Deparse::L10N::ET": "lib/RakuAST/Deparse/L10N/ET.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Estonian"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
