@@ -12,6 +12,7 @@ $ estku -e '' # please add a simple code example in the ET localization
 
 =begin code :lang<raku>
 
+# Must have RAKUDO_RAKUAST=1 environment variable set
 use L10N::ET;
 # please add a code example in the ET localization
 
